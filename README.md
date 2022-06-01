@@ -12,10 +12,10 @@
 
 - 💬 Ask me about **JavaScript , React ,nodeJs , mongodb**
 
-- 📫 How to reach me **hamahmoud768@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.hamahmoud768@gmail.com)
 
-- ⚡ Fun fact **I think I`m funny**
-- <hr>
+- ⚡ Fun fact **I think I`m funny** 
+ <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
