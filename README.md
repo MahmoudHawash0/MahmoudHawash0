@@ -1,5 +1,5 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="990" height="400px">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Mahmoud Hawash</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="3px">, I'm Mahmoud Hawash</h1>
 <h3 align="center">A Web developer from 🚀 Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +14,6 @@
 
 - 📫 How to reach me [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.hamahmoud768@gmail.com)
 
-- ⚡ Fun fact **I think I`m funny** 
  <hr>
 
 <h3 align="left">Connect with me:</h3>
